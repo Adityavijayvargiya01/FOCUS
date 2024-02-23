@@ -1,7 +1,7 @@
 import React from 'react'
-import { CheckCircle, Circle } from "@phosphor-icons/react/dist/ssr";
+import { Circle } from "@phosphor-icons/react/dist/ssr";
 import { Toggle } from './ui/toggle';
-import { useToast } from "@/components/ui/use-toast"
+
 
 
 export default function navbar() {
